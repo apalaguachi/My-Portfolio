@@ -1,0 +1,57 @@
+.image1 img{
+  height: 200px;
+  width: 260px;
+  border-radius: 18%;
+  border: 7px rgb(255, 179, 102) solid;
+  margin-left: 50px
+
+}
+
+.image2 img{
+  height: 200px;
+  width: 260px;
+  border-radius: 18%;
+  border: 7px RGB(205, 92, 92) solid;
+  margin-left: 50px
+
+}
+
+.image3 img{
+  height: 200px;
+  width: 260px;
+  border-radius: 18%;
+  border: 7px rgb(125, 60, 152) solid;
+  margin-left: 50px
+
+}
+
+.image4 img{
+  height: 400px;
+  width: 550px;
+  border-radius: 12%;
+  border: 7px rgb(8, 74, 109)solid;
+  margin-left: 35px
+
+}
+
+h1{
+  font-family: 'Boogaloo', cursive;
+  text-align: center;
+  font-size: 45px
+}
+h2{
+  font-family: 'Boogaloo', cursive;
+  text-align: center;
+  margin-right: 72%
+}
+h3{
+  font-family: 'Boogaloo', cursive;
+  text-align: center;
+  margin-right: 72%
+}
+
+
+.columns {
+  width: 25%;
+  float: left;
+}
